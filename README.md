@@ -13,4 +13,4 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 
 -------------------------------------------
-![Shéma](assets/draw.png)
+![Shéma](assets/schema.png)
