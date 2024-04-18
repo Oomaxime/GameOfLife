@@ -1,0 +1,29 @@
+:root {
+  --HlColor: #d7c168;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #1b1b1b;
+}
+
+#mainGrid {
+  display: grid;
+  height: 90vh; /* Adjust as needed */
+  width: 90vh; /* Adjust as needed */
+  grid-template-columns: repeat(auto-fill, 2%);
+  grid-auto-rows: 2%; /* Each cell will take up 2% of the container's height and width */
+}
+
+.cell {
+  background-color: #323232;
+  border: 1px solid #000;
+}
+.alive {
+  background-color: var(--HlColor);
+}
