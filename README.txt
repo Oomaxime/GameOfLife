@@ -13,3 +13,5 @@ The initial pattern constitutes the seed of the system. The first generation is 
 
 
 -------------------------------------------
+
+![Alt text](assets/draw.png)
